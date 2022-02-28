@@ -1,0 +1,12 @@
+Domain : 1618033.in
+Username : avpu5won3287
+Password :^=BMl7Avt2jJ
+
+Url :   https://1618033.in/demo_zlearn/public/
+Admin : 
+username : admin@gmail.com
+password : 12345678
+
+Student : 
+username: demo@gmail.com
+password: 12345678
